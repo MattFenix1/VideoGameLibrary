@@ -1,7 +1,5 @@
 <Solution>
-  <Folder Name="/Database/">
-    <File Path="init.sql" />
-  </Folder>
-  <Project Path="../BackEnd/BackEnd.csproj" Id="588c954c-4d72-462a-8466-fa5702aede60" />
-  <Project Path="../FrontEnd/FrontEnd.csproj" Id="2f703db8-0645-41c6-b810-6983440b6529" />
+  <Project Path="BackEnd/BackEnd.csproj" Id="bd8a5515-e757-44c0-9523-bab60252ec01" />
+  <Project Path="FrontEnd/FrontEnd.csproj" Id="aa23b5e0-26e0-4171-9ca0-954650d15b68" />
+  <Project Path="VideoGameLibrary.csproj" />
 </Solution>

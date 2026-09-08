@@ -23,7 +23,7 @@ services:
       - "8081:8081"
     environment:
       - ASPNETCORE_ENVIRONMENT=Production
-      - ConnectionStrings__DefaultConnection=Host=database;Port=5432;Database=videogamelibrary;Username=postgres;Password=postgres
+      - ConnectionStrings__DefaultConnection=Host=database;Port=5432;Database=videogamelibrary;Username=postgres;Password=Russell1!
     depends_on:
       - database
 
@@ -38,7 +38,7 @@ services:
     environment:
       - POSTGRES_DB=VideoGameLibrary
       - POSTGRES_USER=postgres
-      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_PASSWORD=Russell1!
     volumes:
       - postgres_data:/var/lib/postgresql/data
 

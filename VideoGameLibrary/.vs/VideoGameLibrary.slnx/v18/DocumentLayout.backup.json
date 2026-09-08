@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Tyler\\Desktop\\VideoGameLibrary\\VideoGameLibrary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A12BFB6-83A9-C2CE-8AFD-CF8028F61119}|VideoGameLibrary.csproj|c:\\users\\tyler\\desktop\\videogamelibrary\\videogamelibrary\\init.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{7A12BFB6-83A9-C2CE-8AFD-CF8028F61119}|VideoGameLibrary.csproj|solutionrelative:init.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{E0096E63-5207-411F-2649-837654E3C58A}|Database{E0096E63-5207-411F-2649-837654E3C58A}|C:\\Users\\Tyler\\Desktop\\VideoGameLibrary\\VideoGameLibrary\\init.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{E0096E63-5207-411F-2649-837654E3C58A}|Database{E0096E63-5207-411F-2649-837654E3C58A}|solutionrelative:init.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A12BFB6-83A9-C2CE-8AFD-CF8028F61119}|VideoGameLibrary.csproj|c:\\users\\tyler\\desktop\\videogamelibrary\\videogamelibrary\\init.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{7A12BFB6-83A9-C2CE-8AFD-CF8028F61119}|VideoGameLibrary.csproj|solutionrelative:init.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{E0096E63-5207-411F-2649-837654E3C58A}|Database{E0096E63-5207-411F-2649-837654E3C58A}|C:\\Users\\Tyler\\Desktop\\VideoGameLibrary\\VideoGameLibrary\\init.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{E0096E63-5207-411F-2649-837654E3C58A}|Database{E0096E63-5207-411F-2649-837654E3C58A}|solutionrelative:init.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,13 +23,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "init.sql",
+              "Title": "init.sql ",
               "DocumentMoniker": "C:\\Users\\Tyler\\Desktop\\VideoGameLibrary\\VideoGameLibrary\\init.sql",
               "RelativeDocumentMoniker": "init.sql",
               "ToolTip": "C:\\Users\\Tyler\\Desktop\\VideoGameLibrary\\VideoGameLibrary\\init.sql",
               "RelativeToolTip": "init.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-09-08T18:28:36.204Z",
+              "WhenOpened": "2026-09-08T22:52:56.021Z",
               "EditorCaption": ""
             }
           ]

@@ -4,6 +4,6 @@ ENV POSTGRES_DB=videogamelibrary
 ENV POSTGRES_USER=postgres
 ENV POSTGRES_PASSWORD=Russell1!
 
-COPY Database/init.sql /docker-entrypoint-initdb.d/init.sql
+COPY init.sql /docker-entrypoint-initdb.d/init.sql
 
 EXPOSE 5432
