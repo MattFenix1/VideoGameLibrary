@@ -1,0 +1,53 @@
+﻿@model IEnumerable<VideoGameLibrary.FrontEnd.Models.Game>
+@{
+    ViewData["Title"] = "Video Game Library";
+}
+<div class="container">
+    <h1>Video Game Library</h1>
+    <p>
+        <a asp-action="Create" class="btn btn-primary">
+            Add New Game
+        </a>
+    </p>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Genre</th>
+                <th>Developer</th>
+                <th>Platform</th>
+                <th>Release Date</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var game in Model)
+            {
+                <tr>
+                    <td>@game.Title</td>
+                    <td>@game.Genre</td>
+                    <td>@game.Developer</td>
+                    <td>@game.Platform</td>
+                    <td>@game.ReleaseDate.ToShortDateString()</td>
+                    <td>
+                        <a asp-action="Details"
+                               asp-route-id="@game.Id"
+                               class="btn btn-info">
+                            Details
+                        </a>
+                        <a asp-action="Edit"
+                               asp-route-id="@game.Id"
+                               class="btn btn-warning">
+                            Edit
+                        </a>
+                        <a asp-action="Delete"
+                               asp-route-id="@game.Id"
+                               class="btn btn-danger">
+                            Delete
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,32 @@
+﻿@model VideoGameLibrary.FrontEnd.Models.Game
+@{
+    ViewData["Title"] = "Game Details";
+}
+<div class="container">
+    <h1>Game Details</h1>
+    <dl class="row">
+        <dt class="col-sm-3">Title</dt>
+        <dd class="col-sm-9">@Model.Title</dd>
+        <dt class="col-sm-3">Genre</dt>
+        <dd class="col-sm-9">@Model.Genre</dd>
+        <dt class="col-sm-3">Developer</dt>
+        <dd class="col-sm-9">@Model.Developer</dd>
+        <dt class="col-sm-3">Platform</dt>
+        <dd class="col-sm-9">@Model.Platform</dd>
+        <dt class="col-sm-3">Release Date</dt>
+        <dd class="col-sm-9">
+            @Model.ReleaseDate.ToShortDateString()
+        </dd>
+        <dt class="col-sm-3">Description</dt>
+        <dd class="col-sm-9">@Model.Description</dd>
+    </dl>
+    <a asp-action="Edit"
+           asp-route-id="@Model.Id"
+           class="btn btn-warning">
+        Edit
+    </a>
+    <a asp-action="Index"
+           class="btn btn-secondary">
+        Back to Library
+    </a>
+</div>
