@@ -1,5 +1,4 @@
 <Solution>
-  <Project Path="BackEnd/BackEnd.csproj" Id="bd8a5515-e757-44c0-9523-bab60252ec01" />
   <Project Path="FrontEnd/FrontEnd.csproj" Id="aa23b5e0-26e0-4171-9ca0-954650d15b68" />
   <Project Path="VideoGameLibrary.csproj" />
 </Solution>

@@ -7,7 +7,12 @@ RUN dotnet restore BackEnd/BackEnd.csproj
 
 COPY BackEnd/ BackEnd/
 
+RUN rm -rf BackEnd/bin BackEnd/obj
+
+RUN dotnet restore BackEnd/BackEnd.csproj
+
 WORKDIR /src/BackEnd
+
 RUN dotnet publish BackEnd.csproj -c Release -o /app/publish --no-restore
 
 

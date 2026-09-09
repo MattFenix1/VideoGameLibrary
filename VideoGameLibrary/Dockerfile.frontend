@@ -8,7 +8,7 @@ RUN dotnet restore FrontEnd/FrontEnd.csproj
 COPY FrontEnd/ FrontEnd/
 
 WORKDIR /src/FrontEnd
-RUN dotnet publish FrontEnd.csproj -c Release -o /app/publish --no-restore
+RUN dotnet publish FrontEnd.csproj -c Release -o /app/publish
 
 
 FROM mcr.microsoft.com/dotnet/aspnet:10.0 AS final
