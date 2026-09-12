@@ -27,7 +27,7 @@ jobs:
               git clone https://github.com/MattFenix1/VideoGameLibrary.git VideoGameLibrary
             fi
 
-            cd VideoGameLibrary/VideoGameLibrary
+            cd VideoGameLibrary
 
             git pull origin main
 
