@@ -14,9 +14,9 @@ jobs:
       - name: Deploy to server
         uses: appleboy/ssh-action@v1.2.2
         with:
-          host: 38.46.230.15
-          username: bduffy
-          password: u5FesGnU
+          host: ${{ secrets.SERVER_HOST }}
+          username: ${{ secrets.SERVER_USERNAME }}
+          password: ${{ secrets.SERVER_PASSWORD }}
           port: 85
           script: |
             if [ ! -d "VideoGameLibrary" ]; then
