@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{7A12BFB6-83A9-C2CE-8AFD-CF8028F61119}|VideoGameLibrary.csproj|solutionrelative:.github\\workflows\\deploy.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7A12BFB6-83A9-C2CE-8AFD-CF8028F61119}|VideoGameLibrary.csproj|c:\\users\\tyler\\desktop\\videogamelibrary\\videogamelibrary\\.github\\workflows\\ci.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{7A12BFB6-83A9-C2CE-8AFD-CF8028F61119}|VideoGameLibrary.csproj|solutionrelative:.github\\workflows\\ci.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7A12BFB6-83A9-C2CE-8AFD-CF8028F61119}|VideoGameLibrary.csproj|c:\\users\\tyler\\desktop\\videogamelibrary\\videogamelibrary\\dockerfile.frontend||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{7A12BFB6-83A9-C2CE-8AFD-CF8028F61119}|VideoGameLibrary.csproj|solutionrelative:dockerfile.frontend||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -34,8 +38,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ci.yml",
+              "DocumentMoniker": "C:\\Users\\Tyler\\Desktop\\VideoGameLibrary\\VideoGameLibrary\\.github\\workflows\\ci.yml",
+              "RelativeDocumentMoniker": ".github\\workflows\\ci.yml",
+              "ToolTip": "C:\\Users\\Tyler\\Desktop\\VideoGameLibrary\\VideoGameLibrary\\.github\\workflows\\ci.yml",
+              "RelativeToolTip": ".github\\workflows\\ci.yml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwCsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-09-12T18:32:57.861Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -44,14 +61,14 @@
               "RelativeDocumentMoniker": ".github\\workflows\\deploy.yml",
               "ToolTip": "C:\\Users\\Tyler\\Desktop\\VideoGameLibrary\\VideoGameLibrary\\.github\\workflows\\deploy.yml",
               "RelativeToolTip": ".github\\workflows\\deploy.yml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2026-09-12T18:30:25.772Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Dockerfile.frontend",
               "DocumentMoniker": "C:\\Users\\Tyler\\Desktop\\VideoGameLibrary\\VideoGameLibrary\\Dockerfile.frontend",
               "RelativeDocumentMoniker": "Dockerfile.frontend",
@@ -59,12 +76,11 @@
               "RelativeToolTip": "Dockerfile.frontend",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-09-08T23:39:05.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-08T23:39:05.983Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Dockerfile.backend",
               "DocumentMoniker": "C:\\Users\\Tyler\\Desktop\\VideoGameLibrary\\VideoGameLibrary\\Dockerfile.backend",
               "RelativeDocumentMoniker": "Dockerfile.backend",
@@ -76,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Dockerfile.database",
               "DocumentMoniker": "C:\\Users\\Tyler\\Desktop\\VideoGameLibrary\\VideoGameLibrary\\Dockerfile.database",
               "RelativeDocumentMoniker": "Dockerfile.database",
@@ -88,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "compose.yaml",
               "DocumentMoniker": "C:\\Users\\Tyler\\Desktop\\VideoGameLibrary\\VideoGameLibrary\\compose.yaml",
               "RelativeDocumentMoniker": "compose.yaml",
@@ -100,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "init.sql",
               "DocumentMoniker": "C:\\Users\\Tyler\\Desktop\\VideoGameLibrary\\VideoGameLibrary\\init.sql",
               "RelativeDocumentMoniker": "init.sql",
