@@ -1,0 +1,28 @@
+name: Deploy
+on:
+  workflow_run:
+    workflows: ["Build and Test"]
+    types:
+      - completed
+jobs:
+  deploy:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Deploy to server
+        uses: appleboy/ssh-action@v1.2.2
+        with:
+          host: 38.46.230.15
+          username: bduffy
+          password: u5FesGnU
+          port: 85
+          script: |
+            if [ ! -d "VideoGameLibrary" ]; then
+              git clone https://github.com/MattFenix1/VideoGameLibrary.git VideoGameLibrary
+            fi
+            cd VideoGameLibrary
+            git pull origin main
+            docker compose down
+            docker compose up -d --build

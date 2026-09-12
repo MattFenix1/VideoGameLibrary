@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Tyler\\Desktop\\VideoGameLibrary\\VideoGameLibrary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A12BFB6-83A9-C2CE-8AFD-CF8028F61119}|VideoGameLibrary.csproj|c:\\users\\tyler\\desktop\\videogamelibrary\\videogamelibrary\\.github\\workflows\\ci.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
-      "RelativeMoniker": "D:0:0:{7A12BFB6-83A9-C2CE-8AFD-CF8028F61119}|VideoGameLibrary.csproj|solutionrelative:.github\\workflows\\ci.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+      "AbsoluteMoniker": "D:0:0:{7A12BFB6-83A9-C2CE-8AFD-CF8028F61119}|VideoGameLibrary.csproj|c:\\users\\tyler\\desktop\\videogamelibrary\\videogamelibrary\\.github\\workflows\\deploy.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{7A12BFB6-83A9-C2CE-8AFD-CF8028F61119}|VideoGameLibrary.csproj|solutionrelative:.github\\workflows\\deploy.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A12BFB6-83A9-C2CE-8AFD-CF8028F61119}|VideoGameLibrary.csproj|c:\\users\\tyler\\desktop\\videogamelibrary\\videogamelibrary\\compose.yaml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
@@ -39,14 +39,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ci.yml",
-              "DocumentMoniker": "C:\\Users\\Tyler\\Desktop\\VideoGameLibrary\\VideoGameLibrary\\.github\\workflows\\ci.yml",
-              "RelativeDocumentMoniker": ".github\\workflows\\ci.yml",
-              "ToolTip": "C:\\Users\\Tyler\\Desktop\\VideoGameLibrary\\VideoGameLibrary\\.github\\workflows\\ci.yml",
-              "RelativeToolTip": ".github\\workflows\\ci.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Title": "deploy.yml",
+              "DocumentMoniker": "C:\\Users\\Tyler\\Desktop\\VideoGameLibrary\\VideoGameLibrary\\.github\\workflows\\deploy.yml",
+              "RelativeDocumentMoniker": ".github\\workflows\\deploy.yml",
+              "ToolTip": "C:\\Users\\Tyler\\Desktop\\VideoGameLibrary\\VideoGameLibrary\\.github\\workflows\\deploy.yml",
+              "RelativeToolTip": ".github\\workflows\\deploy.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2026-09-09T00:15:58.127Z",
+              "WhenOpened": "2026-09-12T17:39:07.44Z",
               "EditorCaption": ""
             },
             {
@@ -59,8 +59,7 @@
               "RelativeToolTip": "Dockerfile.frontend",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-09-08T23:39:05.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-08T23:39:05.983Z"
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "Dockerfile.backend",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-09-08T23:20:26.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-08T23:20:26.134Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "Dockerfile.database",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-09-08T23:10:17.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-08T23:10:17.604Z"
             },
             {
               "$type": "Document",
@@ -96,7 +93,7 @@
               "RelativeDocumentMoniker": "compose.yaml",
               "ToolTip": "C:\\Users\\Tyler\\Desktop\\VideoGameLibrary\\VideoGameLibrary\\compose.yaml",
               "RelativeToolTip": "compose.yaml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAABeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2026-09-08T23:10:03.803Z",
               "EditorCaption": ""

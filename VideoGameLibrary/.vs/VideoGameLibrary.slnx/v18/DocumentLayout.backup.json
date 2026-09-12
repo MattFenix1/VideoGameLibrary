@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Tyler\\Desktop\\VideoGameLibrary\\VideoGameLibrary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A12BFB6-83A9-C2CE-8AFD-CF8028F61119}|VideoGameLibrary.csproj|c:\\users\\tyler\\desktop\\videogamelibrary\\videogamelibrary\\dockerfile.backend||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{7A12BFB6-83A9-C2CE-8AFD-CF8028F61119}|VideoGameLibrary.csproj|solutionrelative:dockerfile.backend||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{7A12BFB6-83A9-C2CE-8AFD-CF8028F61119}|VideoGameLibrary.csproj|c:\\users\\tyler\\desktop\\videogamelibrary\\videogamelibrary\\.github\\workflows\\ci.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{7A12BFB6-83A9-C2CE-8AFD-CF8028F61119}|VideoGameLibrary.csproj|solutionrelative:.github\\workflows\\ci.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A12BFB6-83A9-C2CE-8AFD-CF8028F61119}|VideoGameLibrary.csproj|c:\\users\\tyler\\desktop\\videogamelibrary\\videogamelibrary\\compose.yaml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{7A12BFB6-83A9-C2CE-8AFD-CF8028F61119}|VideoGameLibrary.csproj|solutionrelative:compose.yaml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A12BFB6-83A9-C2CE-8AFD-CF8028F61119}|VideoGameLibrary.csproj|c:\\users\\tyler\\desktop\\videogamelibrary\\videogamelibrary\\dockerfile.database||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{7A12BFB6-83A9-C2CE-8AFD-CF8028F61119}|VideoGameLibrary.csproj|solutionrelative:dockerfile.database||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A12BFB6-83A9-C2CE-8AFD-CF8028F61119}|VideoGameLibrary.csproj|c:\\users\\tyler\\desktop\\videogamelibrary\\videogamelibrary\\compose.yaml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
-      "RelativeMoniker": "D:0:0:{7A12BFB6-83A9-C2CE-8AFD-CF8028F61119}|VideoGameLibrary.csproj|solutionrelative:compose.yaml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+      "AbsoluteMoniker": "D:0:0:{7A12BFB6-83A9-C2CE-8AFD-CF8028F61119}|VideoGameLibrary.csproj|c:\\users\\tyler\\desktop\\videogamelibrary\\videogamelibrary\\dockerfile.backend||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7A12BFB6-83A9-C2CE-8AFD-CF8028F61119}|VideoGameLibrary.csproj|solutionrelative:dockerfile.backend||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A12BFB6-83A9-C2CE-8AFD-CF8028F61119}|VideoGameLibrary.csproj|c:\\users\\tyler\\desktop\\videogamelibrary\\videogamelibrary\\dockerfile.frontend||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7A12BFB6-83A9-C2CE-8AFD-CF8028F61119}|VideoGameLibrary.csproj|solutionrelative:dockerfile.frontend||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A12BFB6-83A9-C2CE-8AFD-CF8028F61119}|VideoGameLibrary.csproj|c:\\users\\tyler\\desktop\\videogamelibrary\\videogamelibrary\\init.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
@@ -31,19 +39,43 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ci.yml",
+              "DocumentMoniker": "C:\\Users\\Tyler\\Desktop\\VideoGameLibrary\\VideoGameLibrary\\.github\\workflows\\ci.yml",
+              "RelativeDocumentMoniker": ".github\\workflows\\ci.yml",
+              "ToolTip": "C:\\Users\\Tyler\\Desktop\\VideoGameLibrary\\VideoGameLibrary\\.github\\workflows\\ci.yml",
+              "RelativeToolTip": ".github\\workflows\\ci.yml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwCsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-09-09T00:15:58.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile.frontend",
+              "DocumentMoniker": "C:\\Users\\Tyler\\Desktop\\VideoGameLibrary\\VideoGameLibrary\\Dockerfile.frontend",
+              "RelativeDocumentMoniker": "Dockerfile.frontend",
+              "ToolTip": "C:\\Users\\Tyler\\Desktop\\VideoGameLibrary\\VideoGameLibrary\\Dockerfile.frontend",
+              "RelativeToolTip": "Dockerfile.frontend",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-08T23:39:05.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Dockerfile.backend",
               "DocumentMoniker": "C:\\Users\\Tyler\\Desktop\\VideoGameLibrary\\VideoGameLibrary\\Dockerfile.backend",
               "RelativeDocumentMoniker": "Dockerfile.backend",
               "ToolTip": "C:\\Users\\Tyler\\Desktop\\VideoGameLibrary\\VideoGameLibrary\\Dockerfile.backend",
               "RelativeToolTip": "Dockerfile.backend",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-09-08T23:20:26.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-08T23:20:26.134Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Dockerfile.database",
               "DocumentMoniker": "C:\\Users\\Tyler\\Desktop\\VideoGameLibrary\\VideoGameLibrary\\Dockerfile.database",
               "RelativeDocumentMoniker": "Dockerfile.database",
@@ -55,19 +87,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "compose.yaml",
               "DocumentMoniker": "C:\\Users\\Tyler\\Desktop\\VideoGameLibrary\\VideoGameLibrary\\compose.yaml",
               "RelativeDocumentMoniker": "compose.yaml",
               "ToolTip": "C:\\Users\\Tyler\\Desktop\\VideoGameLibrary\\VideoGameLibrary\\compose.yaml",
               "RelativeToolTip": "compose.yaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2026-09-08T23:10:03.803Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "init.sql",
               "DocumentMoniker": "C:\\Users\\Tyler\\Desktop\\VideoGameLibrary\\VideoGameLibrary\\init.sql",
               "RelativeDocumentMoniker": "init.sql",
