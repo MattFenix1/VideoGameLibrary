@@ -31,7 +31,8 @@ namespace BackEnd.Controllers
         [HttpPost]
         public async Task<ActionResult<Game>> CreateGame(Game game)
         {
-            _context.Games.Add(game);
+            game.ReleaseDate=DateTime.SpecifyKind(game.ReleaseDate, DateTimeKind.Utc);
+			_context.Games.Add(game);
             await _context.SaveChangesAsync();
             return CreatedAtAction(
                 nameof(GetGame),
