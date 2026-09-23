@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Tyler\\Desktop\\VideoGameLibrary\\VideoGameLibrary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A12BFB6-83A9-C2CE-8AFD-CF8028F61119}|VideoGameLibrary.csproj|c:\\users\\tyler\\desktop\\videogamelibrary\\videogamelibrary\\.github\\workflows\\ci.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
-      "RelativeMoniker": "D:0:0:{7A12BFB6-83A9-C2CE-8AFD-CF8028F61119}|VideoGameLibrary.csproj|solutionrelative:.github\\workflows\\ci.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7A12BFB6-83A9-C2CE-8AFD-CF8028F61119}|VideoGameLibrary.csproj|c:\\users\\tyler\\desktop\\videogamelibrary\\videogamelibrary\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{7A12BFB6-83A9-C2CE-8AFD-CF8028F61119}|VideoGameLibrary.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A12BFB6-83A9-C2CE-8AFD-CF8028F61119}|VideoGameLibrary.csproj|c:\\users\\tyler\\desktop\\videogamelibrary\\videogamelibrary\\.github\\workflows\\ci.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{7A12BFB6-83A9-C2CE-8AFD-CF8028F61119}|VideoGameLibrary.csproj|solutionrelative:.github\\workflows\\ci.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A12BFB6-83A9-C2CE-8AFD-CF8028F61119}|VideoGameLibrary.csproj|c:\\users\\tyler\\desktop\\videogamelibrary\\videogamelibrary\\.github\\workflows\\deploy.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -78,20 +78,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\Tyler\\Desktop\\VideoGameLibrary\\VideoGameLibrary\\README.md",
               "RelativeDocumentMoniker": "README.md",
               "ToolTip": "C:\\Users\\Tyler\\Desktop\\VideoGameLibrary\\VideoGameLibrary\\README.md",
               "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-09-23T16:40:32.526Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ci.yml",
               "DocumentMoniker": "C:\\Users\\Tyler\\Desktop\\VideoGameLibrary\\VideoGameLibrary\\.github\\workflows\\ci.yml",
               "RelativeDocumentMoniker": ".github\\workflows\\ci.yml",
